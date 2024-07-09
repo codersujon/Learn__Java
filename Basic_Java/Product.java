@@ -1,3 +1,5 @@
+package Basic_Java;
+
 public class Product {
     public static void main(String[] args){
         System.out.println("id: 101,");
